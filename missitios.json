@@ -1,0 +1,31 @@
+{
+  "places":{
+      "placesList":[
+        {
+          "placeId":2,
+          "placeName":"Carcaba de Jardines del Pepeto 3",
+          "latitude":13.709233,
+          "longitude":-89.127118
+        },
+        {
+          "placeId":3,
+          "placeName":"Carcava las campaneras",
+          "latitude":13.733856,
+          "longitude":-89.130754
+        },
+        {
+          "placeId":4,
+          "placeName":"Carcava Bosques de prusia",
+          "latitude":13.706398,
+          "longitude": -89.133652
+        },
+        {
+          "placeId":5,
+          "placeName":"quebrada bosques del rio",
+          "latitude":13.719791,
+          "longitude":-89.115445
+        }
+    ],
+    "apiversion":1.0
+  }
+}
