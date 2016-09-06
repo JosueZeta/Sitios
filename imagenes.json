@@ -1,0 +1,61 @@
+{
+  "places":[{
+    "id":2,
+    "placeName":"Carcaba de Jardines del Pepeto 3",
+    "images":[
+      "http://elblog.com/zeus/recursos_generales/recursos_13/imagenes/1402953191.jpg"
+    ],
+    "municipio": "Soyapango"
+  },
+  {
+    "id":3,
+    "placeName":"Carcava las campaneras",
+    "images":[
+    "http://archivo.elsalvador.com/mwedh/aspnet/imagen.aspx?idArt=5202244&idImag=12455696&res=0&idcat=6375&w=607"
+    ],
+    "municipio": "Soyapango"
+  },
+  {
+    "id":4,
+    "placeName":"Carcava Bosques de prusia",
+    "images":[
+    "http://www.verdaddigital.com/images/VDIGITAL25/2016/Mirna_Salinas/obrasSoya-cn.jpg"
+    ],
+    "municipio": "Soyapango"
+  },
+  {
+    "id":5,
+    "placeName":"quebrada bosques del rio",
+    "images":[
+    "http://www.soyacity.com/wp-content/uploads/2016/06/prusia-2.jpg"
+    ],
+    "municipio": "Soyapango"
+  }
+]
+}
+
+
+
+
+ "placeId":2,
+          "placeName":"",
+          "latitude":13.709233,
+          "longitude":-89.127118
+        },
+        {
+          "placeId":3,
+          "placeName":"",
+          "latitude":13.733856,
+          "longitude":-89.130754
+        },
+        {
+          "placeId":4,
+          "placeName":"",
+          "latitude":13.706398,
+          "longitude": -89.133652
+        },
+        {
+          "placeId":5,
+          "placeName":"",
+          "latitude":13.719791,
+          "longitude":-89.115445
